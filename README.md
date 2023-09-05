@@ -1,7 +1,7 @@
 ### ***<div align="center">Just Started 👨‍💻 working  🚀😓</div>***  
                           
 
-<img src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUK2w0nn13a9f64E7YJiO-ahnubVQLJ-3jHKUQfRg4M8xQJzv_zKWMuiatrcHLOdaaw" align="left" style="width: 90%" />  
+<img src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUK2w0nn13a9f64E7YJiO-ahnubVQLJ-3jHKUQfRg4M8xQJzv_zKWMuiatrcHLOdaaw" align="left" style="width: 50%" />  
   
 
 <br/>  
