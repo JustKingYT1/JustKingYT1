@@ -45,4 +45,4 @@
 <br/>  
 
 ## Recent Blog Posts 
-<img src="https://64.media.tumblr.com/e71e6bfdd81f94b3770619ac0d803a07/tumblr_ok6mogpGd81vlvf9to1_500.gif" align="left" height="370" width="" />  
+<img src="https://64.media.tumblr.com/e71e6bfdd81f94b3770619ac0d803a07/tumblr_ok6mogpGd81vlvf9to1_500.gif" align="left" height="370" width="50%" />  
